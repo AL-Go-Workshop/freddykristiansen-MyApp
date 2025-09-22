@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "81b21c96-20b5-47fb-8a73-cbfe7216c8d4",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Freddy Kristiansen",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "e5537618-29d8-4d12-b10e-653b3d03da76",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Freddy Kristiansen",
             "version":  "1.0.0.0"
         }
     ],
